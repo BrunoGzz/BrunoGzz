@@ -1,3 +1,8 @@
+<style>
+  img{
+  border-radius: 10px;
+  }
+</style>
 <p>
   &nbsp;
   <a href="#"><img src="./images/info.png" alt="my info"></a>
