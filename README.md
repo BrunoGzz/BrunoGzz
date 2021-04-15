@@ -1,16 +1,12 @@
-### Hi there 👋
+<p>
+  &nbsp;
+  <a href="#"><img src="./images/info.png" alt="my info"></a>
+</p>
 
-<!--
-**BrunoGzz/BrunoGzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Works
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://github.com/BrunoGzz/SearchOut"><img src="./images/searchout.png" width=48% alt="SearchOut"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/BrunoGzz?tab=repositories"><img src="./images/repos.png" width=48% alt="repositories"></a>
+</p>
